@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "rgb(180, 190, 254)",
+      "directory": "04-plan/03-월간/calendar"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

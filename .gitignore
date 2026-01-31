@@ -1,0 +1,11 @@
+# Obsidian - workspace settings (local only)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+.obsidian/plugins/smart-composer/*
+.obsidian/plugins/copilot/*
